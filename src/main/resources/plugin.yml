@@ -1,0 +1,7 @@
+name: Spleef
+version: '${project.version}'
+main: ru.exordia.spleef.Spleef
+api-version: 1.18
+commands:
+  spleef:
+
